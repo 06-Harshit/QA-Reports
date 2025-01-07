@@ -1,6 +1,6 @@
 Site reviewed : https://morth.nic.in/ (IndiaGovt_Ministry of Road Transport and Highways)
 
-Found 10 bugs and 3 enhancement points: 
+Found 10 bugs and 2 enhancement points: 
 
 Bugs:
 
@@ -79,12 +79,6 @@ Box is to change the theme color of option pane but it is unclear and navigating
 ![image](https://github.com/user-attachments/assets/70b60539-6ad1-45d1-8ac5-eda033140318)
 
 Enhancement 2:
-
-The current email format "shailesh.s[at]nic[dot]in" may appear unclear or difficult to read, especially for users unfamiliar with this representation. To enhance clarity and professionalism, it would be beneficial to use 
-the standard email format "shailesh.s@nic.in" where the "@" and "." symbols are used directly, unless specifically avoiding email scraping bots. For improved readability and user experience, a more conventional format 
-would be better.(https://morth.nic.in/who-is-who)
-
-Enhancement 3:
 
 Images can be placed better like other images on home page:
 
